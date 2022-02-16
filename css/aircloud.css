@@ -92,7 +92,7 @@ body {
 .nav {
   position: relative;
   padding-top: 50px;
-  color: #333333;
+  color: #000000;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -612,7 +612,7 @@ body {
   line-height: 20px;
   font-size: 15px;
   text-indent: 2em;
-  color: #333333;
+  color: #000000;
   font-weight: 300;
 }
 .post-content > table,
@@ -641,8 +641,8 @@ body {
   color: #4990E2;
 }
 .post-content p {
-  color: #404040;
-  font-size: 14px;
+  color: #000000;
+  font-size: 18px;
   line-height: 30px;
   text-indent: 2em;
   letter-spacing: 1px;
@@ -677,42 +677,42 @@ body {
   line-height: 175%;
 }
 .post-content h1 {
-  color: #333333;
+  color: #000000;
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 120%;
   word-break: break-all;
 }
 .post-content h2 {
-  color: #333333;
+  color: #00CED1;
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 120%;
   word-break: break-all;
 }
 .post-content h3 {
-  color: #333333;
+  color: #00CED1;
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 120%;
   word-break: break-all;
 }
 .post-content h4 {
-  color: #333333;
+  color: #000000;
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 120%;
   word-break: break-all;
 }
 .post-content h5 {
-  color: #333333;
+  color: #000000;
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 120%;
   word-break: break-all;
 }
 .post-content h6 {
-  color: #333333;
+  color: #000000;
   margin-top: 20px;
   margin-bottom: 20px;
   line-height: 120%;
@@ -1112,7 +1112,7 @@ pre .javascript .function {
   font-weight: 300;
   font-family: "Montserrat", "Helvetica Neue", "Hiragino Sans GB", "LiHei Pro", Arial, sans-serif;
   cursor: pointer;
-  color: #333333;
+  color: #000000;
 }
 .footer p span a {
   font-weight: 300;
@@ -1122,7 +1122,7 @@ pre .javascript .function {
   text-decoration: none;
 }
 .footer p span a:hover {
-  color: #333333;
+  color: #000000;
 }
 .list-inline.text-center {
   color: #444444;
@@ -1147,7 +1147,7 @@ pre .javascript .function {
   color: white;
 }
 .list-inline.text-center li:hover {
-  background-color: #333333;
+  background-color: #000000;
 }
 @media screen and (max-width: 680px) {
   .footer {
@@ -1174,7 +1174,7 @@ pre .javascript .function {
     text-decoration: none;
   }
   .footer p span a:hover {
-    color: #333333;
+    color: #000000;
   }
 }
 .toc-article {
