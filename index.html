@@ -392,12 +392,22 @@
                     
 
 
+            <footer>
+                <script type="text/javascript" charset="utf-8">
+                 window.onload = function() {
+                    document.getElementById('currentYear').textContent = new Date().getFullYear();
+                };   
+                
+                </script>
 
-                    <div class="row" id="footer">
-                        <div class="col-md-12 text-center">
-                            <p class="copyright-text">Copyright &copy; 2023 Nbu-DongLi</p>
-                        </div>
+                
+                <div class="row" id="footer">
+                    <div class="col-md-12 text-center">
+                        <p class="copyright-text">Copyright &copy; 2021-<span id="currentYear">2023</span> Nbu-DongLi</p>
                     </div>
+                </div>
+            </footer>
+                    
 
                 </div>
 
